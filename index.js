@@ -14,11 +14,11 @@ function nameToAttributes(names) {
   return names.map(createNameObject)  
 }
 function attributesToPhrase(drivers) {
-  return drivers.map
+  return drivers.map(driverinfo) 
 
 }
 function driverinfo(driver) {
-  return `${driver.name} is from ${driver.hometown
+  return `${driver.name} is from ${driver.hometown}`
   
 }
 
