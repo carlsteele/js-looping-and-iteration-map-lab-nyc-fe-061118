@@ -14,9 +14,12 @@ function nameToAttributes(names) {
   return names.map(createNameObject)  
 }
 function attributesToPhrase(drivers) {
-  let firstName =  
-}
+  return drivers.map
 
+}
+function driverinfo(driver) {
+  return 
+}
 
 
 
