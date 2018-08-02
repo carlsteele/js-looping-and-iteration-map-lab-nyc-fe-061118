@@ -18,7 +18,7 @@ function attributesToPhrase(drivers) {
 
 }
 function driverinfo(driver) {
-  return 
+  return firstName
 }
 
 
