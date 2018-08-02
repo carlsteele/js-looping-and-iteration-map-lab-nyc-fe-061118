@@ -18,7 +18,8 @@ function attributesToPhrase(drivers) {
 
 }
 function driverinfo(driver) {
-  return firstName
+  return `${driver.name} is from ${driver.hometown
+  
 }
 
 
